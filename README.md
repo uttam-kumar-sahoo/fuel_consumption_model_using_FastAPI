@@ -7,5 +7,5 @@ Features
 --Machine Learning: Utilizes a pre-trained machine learning model to predict fuel consumption.
 --Swagger UI: Automatically generated interactive API documentation.
 --Pydantic: Data validation and settings management using Python type annotations.
-<img src="1.png" alt="Image description" width="300" height="200">
-<img src="2.png" alt="Image description" width="300" height="200">
+<img src="1.png" alt="Image description" width="600" height="400">
+<img src="2.png" alt="Image description" width="600" height="400">
